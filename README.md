@@ -1,6 +1,6 @@
 # Saudi Arabia Weather Dashboard
 
-## 📊 Project Overview
+##  Project Overview
 An interactive and modern Power BI dashboard designed to monitor and analyze live weather metrics, forecasts, and air quality index (AQI) across key regions in Saudi Arabia (Riyadh, Jeddah, Abha, Dammam, and Tabuk).
 
 ## 📷 Dashboard Preview
